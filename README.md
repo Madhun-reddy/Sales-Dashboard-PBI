@@ -1,5 +1,6 @@
 # Sales Dashboard
 This sales dashboard empowers decision-makers to make informed choices, optimize product offerings, and drive business growth. You can effectively communicate your sales data to stakeholders and collaborators.
+![Sales Dashboard](https://github.com/Madhun-reddy/Sales-Dashboard-PBI/blob/main/Pics/Sales%20Dashboard.png)
 
 ## Overview
 The Sales Dashboard is a powerful visualization tool that provides insights into sales performance, profitability, and trends. Let’s delve into the key components of this dashboard:
